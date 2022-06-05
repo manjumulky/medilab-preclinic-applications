@@ -80,10 +80,5 @@
         <url>http://44.204.1.178:8082/artifactory/libs-snapshot</url>
     </snapshotRepository>
     <repository>
-        <id>central</id>
-        <name>ip-172-31-95-57.ec2.internal-releases</name>
-        <url>http://44.204.1.178:8082/artifactory/libs-release</url>
-    </repository>
-</distributionManagement>
-
+       
 </project>
