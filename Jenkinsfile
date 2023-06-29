@@ -8,7 +8,7 @@ pipeline {
             steps {
                 echo 'connecting to github and pulling the code..'
                 git branch: 'main',
-                url: 'https://github.com/Narsi-Myteaching/medilab-preclinic-applications.git'
+                url: 'https://github.com/manjumulky/medilab-preclinic-applications.git'
                 echo 'source code pulling completed'
             }
         }
